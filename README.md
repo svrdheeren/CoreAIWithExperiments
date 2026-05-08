@@ -14,19 +14,6 @@ The course material has been completely refreshed with all new weeks. If you'd p
 `git fetch`  
 `git checkout original`
 
-Any questions, please ask me on Udemy or at ed@edwarddonner.com. More details at the top of the course resources [here](https://edwarddonner.com/2024/11/13/llm-engineering-resources/).
-
-### Before you begin
-
-I'm here to help you be most successful with your learning. If you hit any snafus, or if you have any ideas on how I can improve the course, please do reach out in the platform or by emailing me direct (ed@edwarddonner.com). It's always great to connect with people on LinkedIn to build up the community - you'll find me here:  
-https://www.linkedin.com/in/eddonner/  
-And this is new to me, but I'm also trying out X/Twitter at [@edwarddonner](https://x.com/edwarddonner) - if you're on X, please show me how it's done 😂  
-
-Resources to accompany the course, including the slides and useful links, are here:  
-https://edwarddonner.com/2024/11/13/llm-engineering-resources/
-
-And a useful FAQ with common questions is here:  
-https://edwarddonner.com/faq/
 
 ## Instant Gratification instructions for Week 1, Day 1 - with Llama 3.2 **not** Llama 3.3
 
@@ -89,8 +76,6 @@ The charges for the exercsies in this course should always be quite low, but if 
 2. For Anthropic: Always use model `claude-3-haiku-20240307` in the code instead of the other Claude models
 3. During week 7, look out for my instructions for using the cheaper dataset
 
-Please do message me or email me at ed@edwarddonner.com if this doesn't work or if I can help with anything. I can't wait to hear how you get on.
-
 <table style="margin: 0; text-align: left;">
     <tr>
         <td style="width: 150px; height: 150px; vertical-align: middle;">
@@ -99,7 +84,7 @@ Please do message me or email me at ed@edwarddonner.com if this doesn't work or 
         <td>
             <h2 style="color:#f71;">Other resources</h2>
             <span style="color:#f71;">I've put together this webpage with useful resources for the course. This includes links to all the slides.<br/>
-            <a href="https://edwarddonner.com/2024/11/13/llm-engineering-resources/">https://edwarddonner.com/2024/11/13/llm-engineering-resources/</a><br/>
+            <a href="https://name.com/2024/11/13/llm-engineering-resources/">https://name.com/2024/11/13/llm-engineering-resources/</a><br/>
             Please keep this bookmarked, and I'll continue to add more useful links there over time.
             </span>
         </td>
